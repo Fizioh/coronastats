@@ -1,0 +1,7 @@
+.formControl {
+    width: 30%;
+    margin-bottom: 30px !important;
+    border-radius: 20%;
+    background-color: white;
+    font-weight: 400;
+}

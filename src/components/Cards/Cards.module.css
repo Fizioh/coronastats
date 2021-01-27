@@ -1,0 +1,36 @@
+.container {
+    margin: 22px 0;
+}
+h1 {
+    padding-top: -15px;
+    font-family:Impact, arial;
+   color: white;
+    text-align: center;
+    font-weight: 400 !important;
+    font-size: 56px !important;
+    text-shadow: 3px 3px rgba(50, 50, 70, 0.5);
+    
+    margin-bottom: 35px !important;
+}
+.card {
+
+    margin: 8% 0 !important;
+    
+}
+
+
+.infected h3 {
+    color: rgba(0, 0, 255, 0.555);
+}
+.recovered h3 {
+    color: rgba(0, 255, 0, 0.568);
+}
+.deaths h3{
+    color: rgba(255, 0, 0, 0.562);
+}
+
+@media (max-width: 770px) {
+    .card {
+        margin: 2% 0 !important;
+    }
+}
